@@ -1,0 +1,19 @@
+{
+  "name": "apatech-auth-native",
+  "version": "1.0.0",
+  "description": "authentication for react native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mundia416/apatech-auth-native.git"
+  },
+  "author": "mundia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mundia416/apatech-auth-native/issues"
+  },
+  "homepage": "https://github.com/mundia416/apatech-auth-native#readme"
+}
